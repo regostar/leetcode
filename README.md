@@ -10,7 +10,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/regostar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/regostar/leetcode/tree/master/0567-permutation-in-string) |
 # Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/regostar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+# Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/regostar/leetcode/tree/master/0567-permutation-in-string) |
+# String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/regostar/leetcode/tree/master/0567-permutation-in-string) |
+# Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/regostar/leetcode/tree/master/0567-permutation-in-string) |
